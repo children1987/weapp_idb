@@ -1,0 +1,2 @@
+/* pages/switches/switches.wxss */
+@import "../common/lib/weui.wxss";
